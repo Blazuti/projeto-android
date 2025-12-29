@@ -68,7 +68,7 @@ header > nav > a:hover{
     transition-duration: 0.3s;
     
 }
-main p {
+main > p {
     font-size: 0.8em;
 }
 main{
